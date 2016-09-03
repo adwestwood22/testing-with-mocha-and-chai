@@ -5,7 +5,7 @@ var chai = require('chai');
 var expect = require('chai').expect;
 var chaiAsPromised = require('chai-as-promised');
 
-//local reqires
+//local requires
 var FaaService = require('../services/FaaService');
 
 //build
