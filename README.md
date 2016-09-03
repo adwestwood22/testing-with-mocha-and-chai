@@ -1,4 +1,4 @@
-# testing webservice with mocha and chai
+# testing a web service with mocha and chai
 A basic testing example of a webservice with Mocha js and Chai js.
 
 This sample uses the Mocha and Chai framework to do a simple test of the FaaService restful service.
